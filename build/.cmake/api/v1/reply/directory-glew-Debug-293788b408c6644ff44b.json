@@ -1,0 +1,141 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"set_representative_target"
+		],
+		"files" : 
+		[
+			"glew/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 192,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 182,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 234,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 237,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 240,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"build/glew/lib/libGLEW.a"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"glew/lib/libglewd.a"
+			],
+			"targetId" : "libglew_static::@53e89909b58b5208c234",
+			"targetIndex" : 31,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"glew/lib/libglew-sharedd.so.2.2.0"
+			],
+			"targetId" : "libglew_shared::@53e89909b58b5208c234",
+			"targetIndex" : 30,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"glew/lib/libglew-sharedd.so"
+			],
+			"targetId" : "libglew_shared::@53e89909b58b5208c234",
+			"targetIndex" : 30,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/glew",
+			"exportName" : "glew-cmake",
+			"exportTargets" : 
+			[
+				{
+					"id" : "libglew_static::@53e89909b58b5208c234",
+					"index" : 31
+				},
+				{
+					"id" : "libglew_shared::@53e89909b58b5208c234",
+					"index" : 30
+				}
+			],
+			"paths" : 
+			[
+				"glew/CMakeFiles/Export/lib/cmake/glew/glewConfig.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "include/GL",
+			"paths" : 
+			[
+				"glew/include/GL/eglew.h",
+				"glew/include/GL/glew.h",
+				"glew/include/GL/glxew.h",
+				"glew/include/GL/wglew.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "glew",
+		"source" : "glew"
+	}
+}

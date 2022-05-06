@@ -1,0 +1,114 @@
+imgui-cmake/libs/CMakeFiles/IMGUI.dir/imgui/backends/imgui_impl_sdl.cpp.o: \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/imgui/backends/imgui_impl_sdl.cpp \
+ /usr/include/stdc-predef.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/imgui/imgui.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/imgui/imconfig.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/float.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h /usr/include/string.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+ /usr/include/strings.h /usr/include/assert.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/imgui/backends/imgui_impl_sdl.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_main.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_stdinc.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_config.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_platform.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/begin_code.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/close_code.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_config_minimal.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_assert.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_atomic.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_audio.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_error.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_endian.h \
+ /usr/include/endian.h /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endianness.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_mutex.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_thread.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_rwops.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_clipboard.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_cpuinfo.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/mmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/xmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/mm_malloc.h \
+ /usr/include/c++/11/stdlib.h /usr/include/c++/11/cstdlib \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/cpu_defines.h \
+ /usr/include/c++/11/pstl/pstl_config.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h \
+ /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+ /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+ /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+ /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+ /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/c++/11/bits/std_abs.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/emmintrin.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_events.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_video.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_pixels.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_rect.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_surface.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_blendmode.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_keyboard.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_keycode.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_scancode.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_mouse.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_joystick.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_gamecontroller.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_sensor.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_quit.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_gesture.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_touch.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_filesystem.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_haptic.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_hidapi.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_hints.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_loadso.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_log.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_messagebox.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_metal.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_power.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_render.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_shape.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_system.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_timer.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_version.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_locale.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_misc.h \
+ /home/danield/Documents/TinyOpenglEngine/imgui-cmake/libs/SDL/include/SDL_syswm.h

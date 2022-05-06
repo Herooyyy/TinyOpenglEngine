@@ -1,0 +1,167 @@
+[
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/context.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/context.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/context.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/init.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/init.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/init.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/input.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/input.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/input.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/monitor.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/monitor.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/monitor.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/platform.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/platform.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/platform.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/vulkan.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/vulkan.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/vulkan.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/window.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/window.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/window.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/egl_context.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/egl_context.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/egl_context.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/osmesa_context.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/null_init.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/null_init.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/null_init.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/null_monitor.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/null_monitor.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/null_monitor.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/null_window.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/null_window.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/null_window.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/null_joystick.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/null_joystick.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/null_joystick.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_module.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/posix_module.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/posix_module.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_time.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/posix_time.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/posix_time.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_thread.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/posix_thread.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/posix_thread.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_init.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/x11_init.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/x11_init.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/x11_monitor.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/x11_monitor.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_window.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/x11_window.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/x11_window.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/xkb_unicode.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/xkb_unicode.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/glx_context.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/glx_context.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/glx_context.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/linux_joystick.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/linux_joystick.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glfw/src",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glfw/src -I/home/danield/Documents/TinyOpenglEngine/build/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_poll.c.o -c /home/danield/Documents/TinyOpenglEngine/glfw/src/posix_poll.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glfw/src/posix_poll.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glew",
+  "command": "/usr/bin/gcc -DGLEW_NO_GLU -DGLEW_STATIC -I/home/danield/Documents/TinyOpenglEngine/glew/include -g -o CMakeFiles/libglew_static.dir/src/glew.c.o -c /home/danield/Documents/TinyOpenglEngine/glew/src/glew.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glew/src/glew.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/glew",
+  "command": "/usr/bin/gcc -DGLEW_BUILD -DGLEW_NO_GLU -Dlibglew_shared_EXPORTS -I/home/danield/Documents/TinyOpenglEngine/glew/include -g -fPIC -o CMakeFiles/libglew_shared.dir/src/glew.c.o -c /home/danield/Documents/TinyOpenglEngine/glew/src/glew.c",
+  "file": "/home/danield/Documents/TinyOpenglEngine/glew/src/glew.c"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/src/engine",
+  "command": "/usr/bin/g++ -DGLEW_NO_GLU -DGLEW_STATIC -I/home/danield/Documents/TinyOpenglEngine/src/engine/imgui -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glew/include -g -o CMakeFiles/TinyOpenglEngine.dir/main.cpp.o -c /home/danield/Documents/TinyOpenglEngine/src/engine/main.cpp",
+  "file": "/home/danield/Documents/TinyOpenglEngine/src/engine/main.cpp"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/src/engine",
+  "command": "/usr/bin/g++ -DGLEW_NO_GLU -DGLEW_STATIC -I/home/danield/Documents/TinyOpenglEngine/src/engine/imgui -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glew/include -g -o CMakeFiles/TinyOpenglEngine.dir/imgui/imgui.cpp.o -c /home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui.cpp",
+  "file": "/home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/src/engine",
+  "command": "/usr/bin/g++ -DGLEW_NO_GLU -DGLEW_STATIC -I/home/danield/Documents/TinyOpenglEngine/src/engine/imgui -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glew/include -g -o CMakeFiles/TinyOpenglEngine.dir/imgui/imgui_demo.cpp.o -c /home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_demo.cpp",
+  "file": "/home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/src/engine",
+  "command": "/usr/bin/g++ -DGLEW_NO_GLU -DGLEW_STATIC -I/home/danield/Documents/TinyOpenglEngine/src/engine/imgui -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glew/include -g -o CMakeFiles/TinyOpenglEngine.dir/imgui/imgui_draw.cpp.o -c /home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_draw.cpp",
+  "file": "/home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/src/engine",
+  "command": "/usr/bin/g++ -DGLEW_NO_GLU -DGLEW_STATIC -I/home/danield/Documents/TinyOpenglEngine/src/engine/imgui -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glew/include -g -o CMakeFiles/TinyOpenglEngine.dir/imgui/imgui_impl_glfw.cpp.o -c /home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_impl_glfw.cpp",
+  "file": "/home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/src/engine",
+  "command": "/usr/bin/g++ -DGLEW_NO_GLU -DGLEW_STATIC -I/home/danield/Documents/TinyOpenglEngine/src/engine/imgui -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glew/include -g -o CMakeFiles/TinyOpenglEngine.dir/imgui/imgui_impl_opengl3.cpp.o -c /home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/src/engine",
+  "command": "/usr/bin/g++ -DGLEW_NO_GLU -DGLEW_STATIC -I/home/danield/Documents/TinyOpenglEngine/src/engine/imgui -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glew/include -g -o CMakeFiles/TinyOpenglEngine.dir/imgui/imgui_tables.cpp.o -c /home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_tables.cpp",
+  "file": "/home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/danield/Documents/TinyOpenglEngine/build/src/engine",
+  "command": "/usr/bin/g++ -DGLEW_NO_GLU -DGLEW_STATIC -I/home/danield/Documents/TinyOpenglEngine/src/engine/imgui -I/home/danield/Documents/TinyOpenglEngine/glfw/include -I/home/danield/Documents/TinyOpenglEngine/glew/include -g -o CMakeFiles/TinyOpenglEngine.dir/imgui/imgui_widgets.cpp.o -c /home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_widgets.cpp",
+  "file": "/home/danield/Documents/TinyOpenglEngine/src/engine/imgui/imgui_widgets.cpp"
+}
+]
